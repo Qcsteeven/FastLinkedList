@@ -16,6 +16,6 @@
    * Указатель на следующую побочную ноду
 ##Иллюстрация струкутры
 <p align="center">
-  <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/fll.png" height=1000>
+  <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/fll.png" height=789>
 </p>
 
