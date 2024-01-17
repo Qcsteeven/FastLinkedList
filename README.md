@@ -20,3 +20,5 @@
   <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/fll.png" height=789>
 </p>
 
+### Подробное описание структуры
+
