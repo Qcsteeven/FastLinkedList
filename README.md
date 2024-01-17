@@ -14,6 +14,7 @@
 2) Node - это побочная нода, которая состоит из:
    * Значение (целое число)
    * Указатель на следующую побочную ноду
+
 ## Иллюстрация струкутры
 <p align="center">
   <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/fll.png" height=789>
