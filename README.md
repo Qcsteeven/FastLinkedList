@@ -55,25 +55,25 @@
 7) Generator.cpp - .cpp файл, с помощью которого формируется файл add.txt
 
 ### Время выполнения (сравнение с обычным двусвзяным списком)
-1) Диапазон чисел от 1 до 100, всего чисел 1000 <p align="center">
+1) Диапазон чисел от 1 до 100, всего чисел 1000 <p align="left">
   <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/1).png" height=100>
 </p>
 2) Диапазон чисел от 1 до 100, всего чисел 1000000 <p align="left">
   <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/2).png" height=100>
 </p>
-3) Диапазон чисел от 1 до 1000, всего чисел 1000 <p align="center">
+3) Диапазон чисел от 1 до 1000, всего чисел 1000 <p align="left">
   <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/3).png" height=100>
 </p>
-4) Диапазон чисел от 1 до 1000, всего чисел 1000000 <p align="center">
+4) Диапазон чисел от 1 до 1000, всего чисел 1000000 <p align="left">
   <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/4).png" height=100>
 </p>
-5) Диапазон чисел от 1 до 10000, всего чисел 1000 <p align="center">
+5) Диапазон чисел от 1 до 10000, всего чисел 1000 <p align="left">
   <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/5).png" height=100>
 </p>
-6) Диапазон чисел от 1 до 10000, всего чисел 1000000 <p align="center">
+6) Диапазон чисел от 1 до 10000, всего чисел 1000000 <p align="left">
   <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/6).png" height=100>
 </p>
-7) Диапазон чисел от 1 до 50000, всего чисел 1000 <p align="center">
+7) Диапазон чисел от 1 до 50000, всего чисел 1000 <p align="left">
   <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/7).png" height=100>
 </p>
 
