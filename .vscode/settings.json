@@ -44,6 +44,25 @@
         "xutility": "cpp",
         "algorithm": "cpp",
         "string": "cpp",
-        "optional": "cpp"
+        "optional": "cpp",
+        "charconv": "cpp",
+        "chrono": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "format": "cpp",
+        "fstream": "cpp",
+        "iomanip": "cpp",
+        "locale": "cpp",
+        "mutex": "cpp",
+        "random": "cpp",
+        "ratio": "cpp",
+        "sstream": "cpp",
+        "stop_token": "cpp",
+        "thread": "cpp",
+        "xlocbuf": "cpp",
+        "xlocmes": "cpp",
+        "xlocmon": "cpp",
+        "xloctime": "cpp"
     }
 }

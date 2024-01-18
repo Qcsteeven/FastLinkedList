@@ -407,7 +407,7 @@ void FastLL::Add(int value) {
       ++runner->height_up;
       ++size_;
       // Корректировка структуры
-      if (runner->right) {
+      /*if (runner->right) {
         // Текущая правая главная нода
         MainNode* r_run = runner->right;
 
@@ -458,8 +458,13 @@ void FastLL::Add(int value) {
 
           // Удаление главной ноды, которая превратилась в побочную
           delete r_run;
+          if (runner->right) {
+            if (runner->right->value < runner->value) {
+              std::cout << "yep\n";
+            }
+          }
         }
-      }
+      }*/
       return;
     }
 
@@ -469,7 +474,7 @@ void FastLL::Add(int value) {
     ++runner->height_up;
 
     // Корректировка структуры
-    if (runner->right) {
+    /*if (runner->right) {
       // Текущая правая главная нода
       MainNode* r_run = runner->right;
 
@@ -520,9 +525,14 @@ void FastLL::Add(int value) {
         runner->height_up += r_run->height_down + 1 + r_run->height_up;
 
         // Удаление главной ноды, которая превратилась в побочную
+        if (runner->right) {
+          if (runner->right->value < runner->value) {
+            std::cout << "yep\n";
+          }
+        }
         delete r_run;
       }
-    }
+    }*/
 
     ++size_;
   }
