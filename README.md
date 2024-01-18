@@ -59,11 +59,23 @@
   <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/1).png" height=100>
 </p>
 
-2) Диапазон чисел от 1 до 100, всего чисел 1000000
-3) Диапазон чисел от 1 до 1000, всего чисел 1000
-4) Диапазон чисел от 1 до 1000, всего чисел 1000000
-5) Диапазон чисел от 1 до 10000, всего чисел 1000
-6) Диапазон чисел от 1 до 10000, всего чисел 1000000
-7) Диапазон чисел от 1 до 50000, всего чисел 1000
+2) Диапазон чисел от 1 до 100, всего чисел 1000000 <p align="center">
+  <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/2).png" height=100>
+</p>
+3) Диапазон чисел от 1 до 1000, всего чисел 1000 <p align="center">
+  <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/3).png" height=100>
+</p>
+4) Диапазон чисел от 1 до 1000, всего чисел 1000000 <p align="center">
+  <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/4).png" height=100>
+</p>
+5) Диапазон чисел от 1 до 10000, всего чисел 1000 <p align="center">
+  <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/5).png" height=100>
+</p>
+6) Диапазон чисел от 1 до 10000, всего чисел 1000000 <p align="center">
+  <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/6).png" height=100>
+</p>
+7) Диапазон чисел от 1 до 50000, всего чисел 1000 <p align="center">
+  <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/7).png" height=100>
+</p>
 
 Заметим, что при меньшем диапозоне быстрый список работает быстрее обычного
