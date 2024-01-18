@@ -58,7 +58,6 @@
 1) Диапазон чисел от 1 до 100, всего чисел 1000 <p align="center">
   <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/1).png" height=100>
 </p>
-
 2) Диапазон чисел от 1 до 100, всего чисел 1000000 <p align="center">
   <img src="https://github.com/Qcsteeven/FastLinkedList/blob/main/2).png" height=100>
 </p>
